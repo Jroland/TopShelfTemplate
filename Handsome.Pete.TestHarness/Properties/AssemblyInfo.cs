@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Handsome.Pete.TestHarness")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TP")]
+[assembly: AssemblyCompany("Handsome Pete")]
 [assembly: AssemblyProduct("Handsome.Pete.TestHarness")]
-[assembly: AssemblyCopyright("Copyright © TP 2012")]
+[assembly: AssemblyCopyright("Copyright © Handsome Pete 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
